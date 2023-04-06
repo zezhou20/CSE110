@@ -8,9 +8,9 @@ Here's me quoting a code: `git add`
 
 This file is built referencing a guide from [GitHub Pages](https://pages.github.com/).
 
-[click on this link](#section-link)
+[Jump to bottom](#section-link)
 
-### Section link
+
 
 [Here's a README file](README.md)
 
@@ -39,3 +39,5 @@ Goals for life:
 - [] Own a Bugatti
 - [x] Stay healthy
 
+
+### Section link
