@@ -34,10 +34,10 @@ Things I value the most:
 
 Goals for life:
 
-- [] Travel Around the world
-- [] Finish college
-- [] Own a Bugatti
-- [x] Stay healthy
+- [ ] Travel Around the world
+- [ ] Finish college
+- [ ] Own a Bugatti
+- [x ] Stay healthy
 
 
 ### Section link
