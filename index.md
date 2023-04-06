@@ -10,7 +10,7 @@ This file is built referencing a guide from [GitHub Pages](https://pages.github.
 
 [Jump to bottom](#bottom)
 
-![meme](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FcJokjWYV_EhTZJvJG0zbV6CowN5V8EoyjzF4LssGyjhTo6rAVntx3XjD7AkBQ2IdFKw&tbnid=Z-GoFNF0LI8zDM&vet=12ahUKEwiJw_n7n5b-AhUpIkQIHUMWCswQMygbegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.uproargames.memesoundboard2017%26hl%3Den_US&docid=EXa3xVPKZ3uTAM&w=512&h=512&q=meme&ved=2ahUKEwiJw_n7n5b-AhUpIkQIHUMWCswQMygbegUIARD-AQ)
+![picture](https://www.dictionary.com/e/wp-content/uploads/2021/09/20210922_atw_memeStonk_800x800-300x300.png)
 
 [Here's a README file](README.md)
 
