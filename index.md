@@ -8,7 +8,7 @@ Here's me quoting a code: `git add`
 
 This file is built referencing a guide from [GitHub Pages](https://pages.github.com/).
 
-[Jump to bottom](#section-link)
+[Jump to bottom](#bottom)
 
 
 
@@ -40,4 +40,4 @@ Goals for life:
 - [x] Stay healthy
 
 
-### Section link
+### Bottom
