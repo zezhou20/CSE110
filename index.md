@@ -37,7 +37,7 @@ Goals for life:
 - [ ] Travel Around the world
 - [ ] Finish college
 - [ ] Own a Bugatti
-- [x ] Stay healthy
+- [x] Stay healthy
 
 
 ### Section link
